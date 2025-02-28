@@ -12,12 +12,13 @@ small{
 
 nav {
     background: #0099cc;
-    padding: 1px;
+    padding: 1px 150px 1px 280px;
 }
 
 nav ul li{
     display: inline;
-    margin: 150px;
+    margin: 80px;
+    align-items: center;
 }
 
 nav ul li a{
